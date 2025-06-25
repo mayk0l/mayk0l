@@ -1,7 +1,6 @@
 # 👨‍💻 Maykol Nicolás Salgado Ramos
 
 [![GitHub followers](https://img.shields.io/github/followers/mayk0l?color=blue&label=Seguidores&logo=github&style=flat-square)](https://github.com/mayk0l?tab=followers)
-[![Top Langs](https://img.shields.io/github/languages/top/mayk0l?logo=typescript&style=flat-square)](https://github.com/mayk0l)
 [![Portfolio](https://img.shields.io/badge/Portafolio-Web-blue?style=flat-square&logo=vercel)](https://github.com/mayk0l)
 [![Email](https://img.shields.io/badge/Email-maykol.salgado@proton.me-orange?style=flat-square&logo=gmail)](mailto:maykol.salgado@proton.me)
 
