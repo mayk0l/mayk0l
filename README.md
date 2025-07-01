@@ -14,7 +14,7 @@
 
 ## 💡 Sobre mí
 
-Soy un joven entusiasta de la tecnología con formación en Ingeniería en Informática y un fuerte enfoque en el desarrollo de software para pequeñas empresas. He creado proyectos desde cero utilizando inteligencia artificial como copiloto, y me destaco por buscar soluciones prácticas, rápidas y con impacto real.
+Soy un joven entusiasta de la tecnología con formación en Ingeniería en Informática y un fuerte enfoque en el desarrollo de software para pequeñas empresas. He creado proyectos desde cero y me destaco por buscar soluciones prácticas, rápidas y con impacto real.
 
 ---
 
