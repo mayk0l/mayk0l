@@ -66,7 +66,7 @@ Soy un joven entusiasta de la tecnología con formación en Ingeniería en Infor
 
 ## 🌐 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maykol%20Salgado-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mayk0l/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maykol%20Salgado-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/mayk0l/](https://www.linkedin.com/in/maykol-nicolas-salgado-ramos-788366371/))
 [![Discord](https://img.shields.io/badge/Discord-mayk0l%237777-5865F2?style=flat-square&logo=discord)](https://discord.gg/yourdiscord)
 
 ---
